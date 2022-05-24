@@ -1,4 +1,4 @@
-# CS-3110-
+# CS-3110-Formal-Languages-and-Automata
 My final project for CS 3110 where I answered a few formal language and automata questions using JFLAP
 
 Questions can be found in [Final Project Questions.pdf](Final Project Questions.pdf)
